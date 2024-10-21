@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+h5{
+    font-family: Arial Black; 
+    background: rgba(30, 30, 30, 0.9);
+    color: rgba(255, 255, 255, 0.9);  
+    border: 2px solid rgb(255, 0, 0); 
+    border-radius: 20px;
+    padding: 7px 11px; 
+    display: inline-block;  
+     
+}
+
+h5:hover {
+    background: rgba(187, 22, 22, 0.9); 
+    color: rgb(255, 255, 255); 
+    border: 2px solid rgb(0, 0, 0); 
+}
+  
+p{
+    border: 2px  solid black;
+    border-radius: 20px; 
+    font-family: Arial Black;
+    background: rgba(18, 200, 224, 0.5);
+    color: black;
+    
+}
+p:hover{
+    background: rgba(22, 187, 58, 0.5);
+    color:rgb(255, 255, 255);
+}
+
